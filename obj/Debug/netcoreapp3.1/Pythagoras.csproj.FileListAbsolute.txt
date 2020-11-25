@@ -1,0 +1,13 @@
+C:\Users\Bariz\Desktop\C#\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.exe
+C:\Users\Bariz\Desktop\C#\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.deps.json
+C:\Users\Bariz\Desktop\C#\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.runtimeconfig.json
+C:\Users\Bariz\Desktop\C#\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.runtimeconfig.dev.json
+C:\Users\Bariz\Desktop\C#\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.dll
+C:\Users\Bariz\Desktop\C#\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.pdb
+C:\Users\Bariz\Desktop\C#\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.csprojAssemblyReference.cache
+C:\Users\Bariz\Desktop\C#\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.AssemblyInfoInputs.cache
+C:\Users\Bariz\Desktop\C#\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.AssemblyInfo.cs
+C:\Users\Bariz\Desktop\C#\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.csproj.CoreCompileInputs.cache
+C:\Users\Bariz\Desktop\C#\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.dll
+C:\Users\Bariz\Desktop\C#\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.pdb
+C:\Users\Bariz\Desktop\C#\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.genruntimeconfig.cache
