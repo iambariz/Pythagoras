@@ -40,8 +40,7 @@ namespace Pythagorean
                     aSide = double.Parse(Console.ReadLine());
                     Console.WriteLine("Please give me the B side");
                     bSide = double.Parse(Console.ReadLine());
-                    cSide = ((aSide * 2) + (bSide * 2)) / 2;
-                    Console.WriteLine("x = (" + aSide * 2 + " + " + bSide * 2 + ") /2");
+                    cSide = Math.Sqrt(aSide * aSide + bSide * bSide);
                     Console.WriteLine("The length of the side is: " + cSide);
                     break;
 
@@ -51,8 +50,7 @@ namespace Pythagorean
                     cSide = double.Parse(Console.ReadLine());
                     Console.WriteLine("Please give me the known leg side");
                     bSide = double.Parse(Console.ReadLine());
-                    aSide = ((cSide * 2) - (bSide * 2)) / 2;
-                    Console.WriteLine("x = " + cSide * 2 + " - " + bSide * 2 + ") /2");
+                    aSide = Math.Sqrt(cSide * cSide - bSide * bSide);
                     Console.WriteLine("The length of the side is: " + aSide);
                     break;
 
